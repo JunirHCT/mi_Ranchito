@@ -1,2 +1,2 @@
-# mi_Ranchito
-pagina web sencilla xdd
+# Pagina web de mi_Ranchito
+Se encontrara alguna informacion de Ranchito, asi como imagenes, videos e ubicacion...
